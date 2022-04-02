@@ -24,6 +24,8 @@ Each file starts with a header listing the number of images n_image in the syste
 
 7th col - 4th image flux (for n_image>2)
 
+Some changes.
+
 
 Contact email: mikhail.denissenya@nu.edu.kz
 
